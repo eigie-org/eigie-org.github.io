@@ -3,17 +3,41 @@
 <head>
     <meta charset="utf-8">
     
-    <title>冻成狗 | 镜花水月</title>
+    <title>bash tips | 镜花水月</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta property="og:type" content="article">
-<meta property="og:title" content="冻成狗">
-<meta property="og:url" content="http://eigie.org/posts/aNTTzo9UcRhryXEoauwbRg/index.html">
+    <meta name="description" content="#bash tips
+##添加新环境变量 export    export GOPATH=/Users/me/go
+多个环境变量 用『:』分隔PATH=$PATH:$GOBIN
+##添加到开机自动执行的脚本
+
+/etc/profile: 此文件为系统的每个用户设置环境信息,当用户第一次登录时,该文件被执行. 并从/etc/profile.d目录的配置文件中搜集shell的设置.
+
+/etc/bas">
+<meta property="og:type" content="article">
+<meta property="og:title" content="bash tips">
+<meta property="og:url" content="http://eigie.org/posts/2hNdQDyaQT-NHMhUcqVSyw/index.html">
 <meta property="og:site_name" content="镜花水月">
-<meta property="og:image" content="http://gaoxiao.114la.com/static/uploads/20151026/1445841143936768.jpeg">
-<meta property="og:updated_time" content="2016-08-06T16:01:39.470Z">
+<meta property="og:description" content="#bash tips
+##添加新环境变量 export    export GOPATH=/Users/me/go
+多个环境变量 用『:』分隔PATH=$PATH:$GOBIN
+##添加到开机自动执行的脚本
+
+/etc/profile: 此文件为系统的每个用户设置环境信息,当用户第一次登录时,该文件被执行. 并从/etc/profile.d目录的配置文件中搜集shell的设置.
+
+/etc/bas">
+<meta property="og:image" content="http://tecadmin.net/wp-content/uploads/2013/02/bash-logo.jpg">
+<meta property="og:updated_time" content="2016-08-06T16:24:22.343Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="冻成狗">
-<meta name="twitter:image" content="http://gaoxiao.114la.com/static/uploads/20151026/1445841143936768.jpeg">
+<meta name="twitter:title" content="bash tips">
+<meta name="twitter:description" content="#bash tips
+##添加新环境变量 export    export GOPATH=/Users/me/go
+多个环境变量 用『:』分隔PATH=$PATH:$GOBIN
+##添加到开机自动执行的脚本
+
+/etc/profile: 此文件为系统的每个用户设置环境信息,当用户第一次登录时,该文件被执行. 并从/etc/profile.d目录的配置文件中搜集shell的设置.
+
+/etc/bas">
+<meta name="twitter:image" content="http://tecadmin.net/wp-content/uploads/2013/02/bash-logo.jpg">
     
 
     
@@ -204,7 +228,7 @@
 </aside>
 
             
-            <section id="main"><article id="post-冻成狗" class="article article-type-post" itemscope itemprop="blogPost">
+            <section id="main"><article id="post-bash_tips" class="article article-type-post" itemscope itemprop="blogPost">
     <div class="article-inner">
         
         
@@ -213,7 +237,7 @@
                 
     
         <h1 class="article-title" itemprop="name">
-            冻成狗
+            bash tips
         </h1>
     
 
@@ -222,8 +246,8 @@
                         
     <div class="article-date">
         <i class="fa fa-calendar"></i>
-        <a href="/posts/aNTTzo9UcRhryXEoauwbRg/">
-            <time datetime="2015-11-24T13:41:19.000Z" itemprop="datePublished">2015-11-24</time>
+        <a href="/posts/2hNdQDyaQT-NHMhUcqVSyw/">
+            <time datetime="2016-08-06T16:20:59.721Z" itemprop="datePublished">2016-08-07</time>
         </a>
     </div>
 
@@ -231,13 +255,13 @@
                         
     <div class="article-category">
     	<i class="fa fa-folder"></i>
-        <a class="article-category-link" href="/categories/生活/">生活</a>
+        <a class="article-category-link" href="/categories/技术/">技术</a>
     </div>
 
                         
     <div class="article-tag">
         <i class="fa fa-tag"></i>
-        <a class="tag-link" href="/tags/冷/">冷</a>
+        <a class="tag-link" href="/tags/linux-bash-开机/">linux bash 开机</a>
     </div>
 
                     </div>
@@ -247,7 +271,27 @@
         <div class="article-entry" itemprop="articleBody">
         
             
-            <p><img src="http://gaoxiao.114la.com/static/uploads/20151026/1445841143936768.jpeg" alt=""></p>
+            <p>#bash tips</p>
+<p>##添加新环境变量 export<br>    export GOPATH=/Users/me/go</p>
+<h2 id="多个环境变量-用『-』分隔"><a href="#多个环境变量-用『-』分隔" class="headerlink" title="多个环境变量 用『:』分隔"></a>多个环境变量 用『:』分隔</h2><pre><code>PATH=$PATH:$GOBIN
+</code></pre><p>##添加到开机自动执行的脚本</p>
+<ul>
+<li><p>/etc/profile: 此文件为系统的每个用户设置环境信息,当用户第一次登录时,该文件被执行. 并从/etc/profile.d目录的配置文件中搜集shell的设置.</p>
+<ul>
+<li>/etc/bashrc:为每一个运行bash shell的用户执行此文件.当bash shell被打开时,该文件被读取.</li>
+<li>~/.bash_profile:每个用户都可使用该文件输入专用于自己使用的shell信息,当用户登录时,该文件仅仅执行一次!默认情况下,他设置一些环境变量,执行用户的.bashrc文件.</li>
+<li>~/.bashrc:该文件包含专用于你的bash shell的bash信息,当登录时以及每次打开新的shell时,该文件被读取.</li>
+<li><p>~/.bash_logout:当每次退出系统(退出bash shell)时,执行该文件.</p>
+</li>
+<li><p>另外,/etc/profile中设定的变量(全局)的可以作用于任何用户,而/.bashrc等中设定的变量(局部)只能继承/etc/profile中的变量,他们是”父子”关系.</p>
+</li>
+<li><p>~/.bash_profile 是交互式、login 方式进入 bash 运行的。</p>
+</li>
+<li>~/.bashrc 是交互式 non-login 方式进入 bash 运行的。通常二者设置大致相同，所以通常前者会调用后者</li>
+</ul>
+</li>
+</ul>
+<p><img src="http://tecadmin.net/wp-content/uploads/2013/02/bash-logo.jpg" alt=""></p>
 
         
         </div>
@@ -258,7 +302,7 @@
 
 </div>
 
-    <a data-url="http://eigie.org/posts/aNTTzo9UcRhryXEoauwbRg/" data-id="cirje4u0f0008fgum59ubzots" class="article-share-link"><i class="fa fa-share"></i>分享到</a>
+    <a data-url="http://eigie.org/posts/2hNdQDyaQT-NHMhUcqVSyw/" data-id="cirje4tzz0002fgumcg3cvr0q" class="article-share-link"><i class="fa fa-share"></i>分享到</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -326,7 +370,7 @@
 
             
     
-        <a href="http://eigie.org/posts/aNTTzo9UcRhryXEoauwbRg/#comments" class="article-comment-link ds-thread-count" data-thread-key="http://eigie.org/posts/aNTTzo9UcRhryXEoauwbRg/">评论</a>
+        <a href="http://eigie.org/posts/2hNdQDyaQT-NHMhUcqVSyw/#comments" class="article-comment-link ds-thread-count" data-thread-key="http://eigie.org/posts/2hNdQDyaQT-NHMhUcqVSyw/">评论</a>
     
 
         </footer>
@@ -335,19 +379,10 @@
         
 <nav id="article-nav">
     
-        <a href="/posts/EPlZrROlr9FPxh6pKfwHLw/" id="article-nav-newer" class="article-nav-link-wrap">
-            <strong class="article-nav-caption">上一篇</strong>
-            <div class="article-nav-title">
-                
-                    pip is not defined
-                
-            </div>
-        </a>
     
-    
-        <a href="/posts/QjEf_LZ_Vr2l5wdJnx39_w/" id="article-nav-older" class="article-nav-link-wrap">
+        <a href="/posts/HM9LD8qOYgL6T0sGbZe3rQ/" id="article-nav-older" class="article-nav-link-wrap">
             <strong class="article-nav-caption">下一篇</strong>
-            <div class="article-nav-title">添加多说评论框</div>
+            <div class="article-nav-title">将博客搬到了coding</div>
         </a>
     
 </nav>
@@ -361,7 +396,7 @@
     <section id="comments">
     
         
-    <div class="ds-thread" data-thread-key="posts/aNTTzo9UcRhryXEoauwbRg/" data-title="冻成狗" data-url="http://eigie.org/posts/aNTTzo9UcRhryXEoauwbRg/"></div>
+    <div class="ds-thread" data-thread-key="posts/2hNdQDyaQT-NHMhUcqVSyw/" data-title="bash tips" data-url="http://eigie.org/posts/2hNdQDyaQT-NHMhUcqVSyw/"></div>
     <style>
         #ds-thread #ds-reset .ds-textarea-wrapper {
             background: none;
