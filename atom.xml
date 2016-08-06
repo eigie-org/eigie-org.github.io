@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://eigie.org/"/>
-  <updated>2016-08-06T11:42:12.623Z</updated>
+  <updated>2016-08-06T14:43:37.197Z</updated>
   <id>http://eigie.org/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>将博客搬到了coding</title>
+    <link href="http://eigie.org/posts/HM9LD8qOYgL6T0sGbZe3rQ/"/>
+    <id>http://eigie.org/posts/HM9LD8qOYgL6T0sGbZe3rQ/</id>
+    <published>2016-08-06T13:59:04.000Z</published>
+    <updated>2016-08-06T14:43:37.197Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="在coding布署静态博客"><a href="#在coding布署静态博客" class="headerlink" title="在coding布署静态博客"></a>在<a href="https://coding.net/register?key=2a233004-4fa3-4978-8772-d15c500e74c5" target="_blank" rel="external">coding</a>布署静态博客</h1><p>墙内访问github实在是有点痛苦。看到<a href="https://coding.net/register?key=2a233004-4fa3-4978-8772-d15c500e74c5" target="_blank" rel="external">coding</a>上也已经可以布署静态博客了，就直接搬过来了。<br>之前找了一个免费的空间，但是放上去没几天就找不见了。关于布署方法，有人做了非常详细的教程，基本上依样画瓢就可以了。<a href="https://segmentfault.com/a/1190000004548638" target="_blank" rel="external">布署方法参考此文章。</a></p>
+<h1 id="coding-是个啥"><a href="#coding-是个啥" class="headerlink" title="coding 是个啥"></a><a href="https://coding.net/register?key=2a233004-4fa3-4978-8772-d15c500e74c5" target="_blank" rel="external">coding</a> 是个啥</h1><p><a href="https://coding.net/register?key=2a233004-4fa3-4978-8772-d15c500e74c5" target="_blank" rel="external">coding</a>做的事情类似github, 不过做为又一个copy to china跟github之间还是略有差别（虽然他们声称定位完全不一样）。</p>
+<h2 id="不同点"><a href="#不同点" class="headerlink" title="不同点"></a>不同点</h2><ul>
+<li><p>跟github最不同的一点应该是可以免费建私有库了。</p>
+</li>
+<li><p>另外很重要的一点是它的server在墙内，用起来方便些。</p>
+</li>
+<li><p>他们的野心（忽悠）看起来是想让别人把<a href="https://coding.net/register?key=2a233004-4fa3-4978-8772-d15c500e74c5" target="_blank" rel="external">coding</a>都搬他们家的server上来做。基于此，它雄心勃勃地在搞项目交易平台，力求跟github定位拉开距离。 一句话就是他们想搞个云外包，还专门起了个名字叫码市。</p>
+</li>
+<li><p>不过一开始用它，多半是从找国内github替代品开始的，反正我是因此才用它的。<a href="https://coding.net/register?key=2a233004-4fa3-4978-8772-d15c500e74c5" target="_blank" rel="external">coding.net</a></p>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;在coding布署静态博客&quot;&gt;&lt;a href=&quot;#在coding布署静态博客&quot; class=&quot;headerlink&quot; title=&quot;在coding布署静态博客&quot;&gt;&lt;/a&gt;在&lt;a href=&quot;https://coding.net/register?key=2a233
+    
+    </summary>
+    
+    
+      <category term="github coding.net 静态网站 blog 博客" scheme="http://eigie.org/tags/github-coding-net-%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99-blog-%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>pip is not defined</title>
