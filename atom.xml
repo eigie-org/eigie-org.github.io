@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://eigie.org/"/>
-  <updated>2016-08-06T14:43:37.197Z</updated>
+  <updated>2016-08-06T16:05:48.943Z</updated>
   <id>http://eigie.org/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://eigie.org/posts/HM9LD8qOYgL6T0sGbZe3rQ/"/>
     <id>http://eigie.org/posts/HM9LD8qOYgL6T0sGbZe3rQ/</id>
     <published>2016-08-06T13:59:04.000Z</published>
-    <updated>2016-08-06T14:43:37.197Z</updated>
+    <updated>2016-08-06T16:05:48.943Z</updated>
     
     <content type="html"><![CDATA[<h1 id="在coding布署静态博客"><a href="#在coding布署静态博客" class="headerlink" title="在coding布署静态博客"></a>在<a href="https://coding.net/register?key=2a233004-4fa3-4978-8772-d15c500e74c5" target="_blank" rel="external">coding</a>布署静态博客</h1><p>墙内访问github实在是有点痛苦。看到<a href="https://coding.net/register?key=2a233004-4fa3-4978-8772-d15c500e74c5" target="_blank" rel="external">coding</a>上也已经可以布署静态博客了，就直接搬过来了。<br>之前找了一个免费的空间，但是放上去没几天就找不见了。关于布署方法，有人做了非常详细的教程，基本上依样画瓢就可以了。<a href="https://segmentfault.com/a/1190000004548638" target="_blank" rel="external">布署方法参考此文章。</a></p>
 <h1 id="coding-是个啥"><a href="#coding-是个啥" class="headerlink" title="coding 是个啥"></a><a href="https://coding.net/register?key=2a233004-4fa3-4978-8772-d15c500e74c5" target="_blank" rel="external">coding</a> 是个啥</h1><p><a href="https://coding.net/register?key=2a233004-4fa3-4978-8772-d15c500e74c5" target="_blank" rel="external">coding</a>做的事情类似github, 不过做为又一个copy to china跟github之间还是略有差别（虽然他们声称定位完全不一样）。</p>
@@ -42,6 +42,8 @@
     
     </summary>
     
+      <category term="技术" scheme="http://eigie.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
     
       <category term="github coding.net 静态网站 blog 博客" scheme="http://eigie.org/tags/github-coding-net-%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99-blog-%E5%8D%9A%E5%AE%A2/"/>
     
@@ -52,7 +54,7 @@
     <link href="http://eigie.org/posts/EPlZrROlr9FPxh6pKfwHLw/"/>
     <id>http://eigie.org/posts/EPlZrROlr9FPxh6pKfwHLw/</id>
     <published>2015-12-06T04:22:07.000Z</published>
-    <updated>2016-08-06T11:42:12.623Z</updated>
+    <updated>2016-08-06T16:06:06.727Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://7xoim3.com1.z0.glb.clouddn.com/2015-12-06sunlight-in-dongchuan-kunming-by-fabrizio-massetti.jpg" alt="--"><a href="https://500px.com/photo/131255549/sunlight-in-dongchuan-kunming-by-fabrizio-massetti" target="_blank" rel="external">图片原作者</a></p>
 <p>更新了Anaconda后之前的一些包没有了。比如：chardet与pyquery。而<a href="http://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows" target="_blank" rel="external">python 3.4之后是自带pip的</a>，所以可以直接用pip安装。由于之前没有真正用pip安装过，所以安装过程是一波又三折。</p>
@@ -79,6 +81,8 @@ $ pip install &apos;SomePackage&gt;=1.0.4&apos;   # minimum version
     
     </summary>
     
+      <category term="技术" scheme="http://eigie.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
     
       <category term="tech python windows pip" scheme="http://eigie.org/tags/tech-python-windows-pip/"/>
     
@@ -89,7 +93,7 @@ $ pip install &apos;SomePackage&gt;=1.0.4&apos;   # minimum version
     <link href="http://eigie.org/posts/aNTTzo9UcRhryXEoauwbRg/"/>
     <id>http://eigie.org/posts/aNTTzo9UcRhryXEoauwbRg/</id>
     <published>2015-11-24T13:41:19.000Z</published>
-    <updated>2016-08-06T09:37:27.118Z</updated>
+    <updated>2016-08-06T16:01:39.470Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://gaoxiao.114la.com/static/uploads/20151026/1445841143936768.jpeg" alt=""></p>
 ]]></content>
@@ -101,6 +105,10 @@ $ pip install &apos;SomePackage&gt;=1.0.4&apos;   # minimum version
     
     </summary>
     
+      <category term="生活" scheme="http://eigie.org/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="冷" scheme="http://eigie.org/tags/%E5%86%B7/"/>
     
   </entry>
   
@@ -109,7 +117,7 @@ $ pip install &apos;SomePackage&gt;=1.0.4&apos;   # minimum version
     <link href="http://eigie.org/posts/QjEf_LZ_Vr2l5wdJnx39_w/"/>
     <id>http://eigie.org/posts/QjEf_LZ_Vr2l5wdJnx39_w/</id>
     <published>2015-11-22T09:58:01.000Z</published>
-    <updated>2016-08-06T09:37:27.133Z</updated>
+    <updated>2016-08-06T16:05:53.505Z</updated>
     
     <content type="html"><![CDATA[<p>首先是注册一个多说账号。<br><a href="http://duoshuo.com/" target="_blank" rel="external">多说官网</a></p>
 <p>如何添加则多说官网有说明：<br><a href="http://dev.duoshuo.com/threads/541d3b2b40b5abcd2e4df0e9" target="_blank" rel="external">Hexo使用多说教程</a></p>
@@ -136,6 +144,8 @@ $ pip install &apos;SomePackage&gt;=1.0.4&apos;   # minimum version
     
     </summary>
     
+      <category term="技术" scheme="http://eigie.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
     
       <category term="hexo comment" scheme="http://eigie.org/tags/hexo-comment/"/>
     
@@ -146,7 +156,7 @@ $ pip install &apos;SomePackage&gt;=1.0.4&apos;   # minimum version
     <link href="http://eigie.org/posts/jEqwhuKeh-DpP5v5y6LlFQ/"/>
     <id>http://eigie.org/posts/jEqwhuKeh-DpP5v5y6LlFQ/</id>
     <published>2015-11-21T14:53:04.000Z</published>
-    <updated>2016-08-06T09:37:27.118Z</updated>
+    <updated>2016-08-06T16:05:59.185Z</updated>
     
     <content type="html"><![CDATA[<p>#首先当然是下载安装hexo了</p>
 <p>不过这一步还真不一定这么简单。难在很多网站都被樯了。。。各种网站打不开，搞得人要吐血。由于github也被樯了，所以。。。额，没啥好所以的。自己想办法吧，反正hexo和相关的插件/主题大都托管上github上。另外hexo 是用的node.js, 并且nodejs官网及npm源也常常被樯。</p>
@@ -169,6 +179,8 @@ $ pip install &apos;SomePackage&gt;=1.0.4&apos;   # minimum version
     
     </summary>
     
+      <category term="技术" scheme="http://eigie.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
     
       <category term="tech network hexo" scheme="http://eigie.org/tags/tech-network-hexo/"/>
     
@@ -179,7 +191,7 @@ $ pip install &apos;SomePackage&gt;=1.0.4&apos;   # minimum version
     <link href="http://eigie.org/posts/ikypkCqWqMX7J6yvbbNUHg/"/>
     <id>http://eigie.org/posts/ikypkCqWqMX7J6yvbbNUHg/</id>
     <published>2015-11-21T08:45:29.000Z</published>
-    <updated>2016-08-06T09:37:27.133Z</updated>
+    <updated>2016-08-06T16:05:44.497Z</updated>
     
     <content type="html"><![CDATA[<p>我只想说</p>
 <p><img src="http://7xoim3.com1.z0.glb.clouddn.com/Alpaca.jpg" alt="--"></p>
@@ -193,6 +205,10 @@ $ pip install &apos;SomePackage&gt;=1.0.4&apos;   # minimum version
     
     </summary>
     
+      <category term="吐槽" scheme="http://eigie.org/categories/%E5%90%90%E6%A7%BD/"/>
+    
+    
+      <category term="吐槽 GFW" scheme="http://eigie.org/tags/%E5%90%90%E6%A7%BD-GFW/"/>
     
   </entry>
   

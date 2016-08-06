@@ -2,29 +2,43 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://eigie.org/tags/tech-network-hexo/</loc>
-        <lastmod>2016-08-06T09:37:27.118Z</lastmod>
+        <loc>http://eigie.org/tags/%E5%86%B7/</loc>
+        <lastmod>2016-08-06T16:01:39.470Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://eigie.org/tags/hexo-comment/</loc>
-        <lastmod>2016-08-06T09:37:27.133Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://eigie.org/tags/tech-python-windows-pip/</loc>
-        <lastmod>2016-08-06T11:42:12.623Z</lastmod>
+        <loc>http://eigie.org/tags/%E5%90%90%E6%A7%BD-GFW/</loc>
+        <lastmod>2016-08-06T16:05:44.497Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://eigie.org/tags/github-coding-net-%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99-blog-%E5%8D%9A%E5%AE%A2/</loc>
-        <lastmod>2016-08-06T14:43:37.197Z</lastmod>
+        <lastmod>2016-08-06T16:05:48.943Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://eigie.org/tags/hexo-comment/</loc>
+        <lastmod>2016-08-06T16:05:53.505Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://eigie.org/tags/tech-network-hexo/</loc>
+        <lastmod>2016-08-06T16:05:59.185Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://eigie.org/tags/tech-python-windows-pip/</loc>
+        <lastmod>2016-08-06T16:06:06.727Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
