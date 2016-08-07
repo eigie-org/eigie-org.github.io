@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>镜花水月</title>
-  
+  <subtitle>我们只会相信愿意相信的事物</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://eigie.org/"/>
